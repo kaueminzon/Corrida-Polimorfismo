@@ -1,0 +1,9 @@
+model\Pessoa.class
+model\Moto.class
+model\Jetski.class
+model\Piloto.class
+model\Automovel.class
+model\Carro.class
+app.class
+model\Pista.class
+model\Corrida.class
